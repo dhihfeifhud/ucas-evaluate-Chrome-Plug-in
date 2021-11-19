@@ -14,6 +14,6 @@ benben [原版](https://codeload.github.com/banben/ucas_evaluate/zip/master)。
 
 #### 基本使用
 
-使用[开发者模式](http://chromecj.com/utilities/2015-04/423.html)安装插件后，登录[sep系统](https://sep.ucas.ac.cn)进行评教。
+点击本页面绿色按钮【code】，下载zip，然后解压文件，然后打开chrome或者edge浏览器，在“扩展”页面中，打开开发者模式，拖动文件夹ucas_evaluate（即解压后打开的，和README.md并列的文件夹）进去，然后登录sep的评估课程、教师页面就可以啦！
 
 在content.js中可以改变主观题的内容。
