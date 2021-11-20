@@ -8,7 +8,7 @@
 直接在Edge/Chrome浏览器下使用，无需使用命令行。
 
 #### 感谢
-benben [原版](https://codeload.github.com/banben/ucas_evaluate/zip/master)，已过时不适配当前Sep系统。
+benben [原版](https://codeload.github.com/banben/ucas_evaluate)，此版本已过时不适配当前Sep系统。
 
 2021-11-12 针对目前的教务网站进行优化。
 
