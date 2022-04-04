@@ -11,9 +11,10 @@
 benben [原版](https://codeload.github.com/banben/ucas_evaluate)，此版本已过时不适配当前Sep系统。
 
 2021-11-12 针对目前的教务网站进行优化。
+2022-04-04 针对目前的Chrome浏览器进行优化。
 
 #### 基本使用
 
-点击本页面绿色按钮【code】，下载zip，然后解压文件，然后打开微软Edge浏览器（Edge就是windows系统自带的浏览器~）或者谷歌Chrome浏览器，在“扩展”页面中，打开开发者模式，拖动文件夹ucas_evaluate（即解压后打开的，和README.md并列的文件夹）进去，然后登录Sep的评估课程、教师页面就可以啦！
+点击本页面绿色按钮【code】，下载zip，然后解压文件，然后打开微软Edge浏览器（Edge就是windows系统自带的浏览器~）或者谷歌Chrome浏览器，在“扩展”页面中，打开开发者模式，拖动解压后的文件夹ucas-evaluate-Chrome-Plug-in（即解压后打开的，含有README.md的整个文件夹）进去，然后登录Sep的评估课程、教师页面就可以啦！
 
 在content.js中可以改变主观题的内容。
